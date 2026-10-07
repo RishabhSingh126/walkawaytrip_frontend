@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "@/components/User/main/common/Navbar";
-import ContactFooter from "@/components/user/landing/ContactPage";
-import Footer from "@/components/user/common/Footer";
+import ContactFooter from "@/components/User/Landing/ContactPage";
+import Footer from "@/components/User/common/Footer";
 import { FaCalendarAlt, FaCheckCircle, FaStar, FaUser, FaPhone, FaComment, FaCheck, FaTimes } from "react-icons/fa";
 import { MdAir, MdDirectionsCar, MdLocationOn, MdSpeed } from "react-icons/md";
 import { BiUser } from "react-icons/bi";

@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { MdArrowBack, MdSwapHoriz } from "react-icons/md";
 import Navbar from "@/components/User/main/common/Navbar";
-import Footer from "@/components/user/common/Footer";
-import ContactFooter from "@/components/user/landing/ContactPage";
+import Footer from "@/components/User/common/Footer";
+import ContactFooter from "@/components/User/Landing/ContactPage";
 
 const COUNTRIES = [
   { name: "Abu Dhabi, UAE", lat: 24.47, lon: 54.37 },

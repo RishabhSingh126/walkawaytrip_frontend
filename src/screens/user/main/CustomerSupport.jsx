@@ -5,7 +5,7 @@ import { CheckCircle } from "lucide-react";
 import toast from "react-hot-toast";
 import Navbar from "@/components/User/main/common/Navbar";
 import Footer from "@/components/User/common/Footer";
-import ContactFooter from "@/components/user/landing/ContactPage";
+import ContactFooter from "@/components/User/Landing/ContactPage";
 
 const FAQ_ITEMS = [
   {

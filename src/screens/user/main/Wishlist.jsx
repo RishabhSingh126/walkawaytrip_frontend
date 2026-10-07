@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 import { MdArrowBack } from "react-icons/md";
 import { Clock, MapPin, Trash2, Globe } from "lucide-react";
 import Navbar from "@/components/User/main/common/Navbar";
-import Footer from "@/components/user/common/Footer";
-import ContactFooter from "@/components/user/landing/ContactPage";
+import Footer from "@/components/User/common/Footer";
+import ContactFooter from "@/components/User/Landing/ContactPage";
 
 const Wishlist = () => {
   const [wishlist, setWishlist] = useState([]);

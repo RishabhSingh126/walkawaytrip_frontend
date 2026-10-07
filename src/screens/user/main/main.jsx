@@ -15,7 +15,7 @@ import AiTripPlanner from "@/components/User/main/Home/AiTripPlanner";
 import Testimonials from "@/components/User/main/Home/Testimonials";
 import TravelPlanner from "@/components/User/main/Home/TravelPlanner";
 import TravelBrands from "@/components/User/main/Home/TravelBrands";
-import ContactFooter from "@/components/User/landing/ContactPage";
+import ContactFooter from "@/components/User/Landing/ContactPage";
 import Footer from "@/components/User/common/Footer";
 import TravelChat from "@/components/User/main/Home/TravelChat";
 

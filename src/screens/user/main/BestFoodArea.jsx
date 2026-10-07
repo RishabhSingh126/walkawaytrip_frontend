@@ -12,8 +12,8 @@ import {
   ChevronRight,
   Clock
 } from "lucide-react";
-import Footer from "@/components/user/common/Footer";
-import ContactFooter from "@/components/user/landing/ContactPage";
+import Footer from "@/components/User/common/Footer";
+import ContactFooter from "@/components/User/Landing/ContactPage";
 import { motion, AnimatePresence } from "framer-motion";
 import toast from "react-hot-toast";
 import { LANGUAGES, getCurrentLanguage, setLanguageCookie } from "@/utils/translator";

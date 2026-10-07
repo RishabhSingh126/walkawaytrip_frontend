@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "@/components/User/main/common/Navbar";
-import ContactFooter from "@/components/user/landing/ContactPage";
-import Footer from "@/components/user/common/Footer";
+import ContactFooter from "@/components/User/Landing/ContactPage";
+import Footer from "@/components/User/common/Footer";
 import { Link } from "react-router-dom";
 
 const SeasonalOffers = () => {

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Train, Search, AlertCircle, MapPin, Clock, ArrowRight, Activity, Map } from "lucide-react";
 import MainNavbar from "@/components/User/main/common/Navbar";
-import Footer from "@/components/user/common/Footer";
+import Footer from "@/components/User/common/Footer";
 
 const PlatformLocator = () => {
   const [trainNumber, setTrainNumber] = useState("");

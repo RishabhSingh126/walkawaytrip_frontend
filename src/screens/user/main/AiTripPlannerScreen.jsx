@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import Navbar from "@/components/User/main/common/Navbar";
-import Footer from "@/components/user/common/Footer";
+import Footer from "@/components/User/common/Footer";
 import ContactFooter from "@/components/User/Landing/ContactPage";
 import { MdArrowBack } from "react-icons/md";
 import { 

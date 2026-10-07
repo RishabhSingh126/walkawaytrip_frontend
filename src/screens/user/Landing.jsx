@@ -4,17 +4,17 @@ import bgpage from "@/assets/image/Landing/Section.png";
 import React, { useState } from "react";
 import { FaPlaneDeparture } from "react-icons/fa";
 
-import Features from "@/components/user/landing/Features";
-import Trending from "@/components/user/landing/Trending";
-import Popular from "@/components/user/landing/Popular";
-import BentoGrid from "@/components/user/landing/BentoGrid";
-import TopTrending from "@/components/user/landing/TopTrending";
-import CustomerReviews from "@/components/user/landing/Reviews";
-import TravelArticles from "@/components/user/landing/TravelArticles";
-import AppPromo from "@/components/user/landing/AppPromo";
-import ContactFooter from "@/components/user/landing/ContactPage";
-import Footer from "@/components/user/common/Footer";
-import Navbar from "@/components/user/common/Navbar";
+import Features from "@/components/User/Landing/Features";
+import Trending from "@/components/User/Landing/Trending";
+import Popular from "@/components/User/Landing/Popular";
+import BentoGrid from "@/components/User/Landing/BentoGrid";
+import TopTrending from "@/components/User/Landing/TopTrending";
+import CustomerReviews from "@/components/User/Landing/Reviews";
+import TravelArticles from "@/components/User/Landing/TravelArticles";
+import AppPromo from "@/components/User/Landing/AppPromo";
+import ContactFooter from "@/components/User/Landing/ContactPage";
+import Footer from "@/components/User/common/Footer";
+import Navbar from "@/components/User/common/Navbar";
 
 const suggestions = [
   "Inspire me where to go",

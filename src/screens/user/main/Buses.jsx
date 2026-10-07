@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import MainNavbar from "@/components/User/main/common/Navbar";
-import Footer from "@/components/user/common/Footer";
+import Footer from "@/components/User/common/Footer";
 import MainSearchBar from "@/components/User/main/Home/MainSearchBar";
 import { Bus, MapPin, ShieldCheck, Clock, CreditCard, ChevronRight, ChevronDown, ChevronUp, Star, CheckCircle, Wifi, Monitor, Info, BatteryCharging } from "lucide-react";
 

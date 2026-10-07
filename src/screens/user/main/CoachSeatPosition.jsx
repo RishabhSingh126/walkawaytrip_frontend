@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Train, Ticket, Search, AlertCircle, Eye, Info, HelpCircle, ChevronDown, ChevronUp, MapPin, CheckCircle2, ShieldCheck, Clock } from "lucide-react";
 import MainNavbar from "@/components/User/main/common/Navbar";
-import Footer from "@/components/user/common/Footer";
+import Footer from "@/components/User/common/Footer";
 
 // FAQ Component for clean code
 const FAQItem = ({ question, answer, isOpen, onClick }) => {

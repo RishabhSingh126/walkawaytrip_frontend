@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Navbar from '../../../components/User/main/common/Navbar';
 import Footer from '../../../components/User/common/Footer';
-import ContactFooter from '../../../components/user/landing/ContactPage';
+import ContactFooter from '../../../components/User/Landing/ContactPage';
 
 const TrendingDestinations = () => {
   const navigate = useNavigate();

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { Train, Search, ArrowRight, Clock, MapPin, AlertCircle, Info, ChevronDown } from "lucide-react";
 import Navbar from "@/components/User/common/Navbar"; // Fallback to common Navbar if main one isn't imported right
-import Footer from "@/components/user/common/Footer";
+import Footer from "@/components/User/common/Footer";
 import AutocompleteInput from "@/components/User/main/Home/searchBars/AutocompleteInput";
 import { INDIAN_TRAINS } from "@/data/trainsList";
 

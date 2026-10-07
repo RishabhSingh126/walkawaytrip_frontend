@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import Navbar from "@/components/User/main/common/Navbar";
-import Footer from "@/components/user/common/Footer";
+import Footer from "@/components/User/common/Footer";
 import ContactFooter from "@/components/User/Landing/ContactPage";
 import { MdArrowBack } from "react-icons/md";
 import { Clock, MapPin, Star, Heart, Calendar, ShieldCheck, Compass, Menu, X, ArrowRight, Eye, ChevronRight } from "lucide-react";
