@@ -33,7 +33,7 @@ import AiTripPlanner from "@/components/User/main/Home/AiTripPlanner";
 
 import TravelBrands from "@/components/User/main/Home/TravelBrands";
 import TravelPlanner from "@/components/User/main/Home/TravelPlanner";
-import Option from "@/components/User/main/Home/option";
+import Option from "@/components/User/main/Home/Option";
 import GlobalHeroBanner from "@/components/User/main/Home/GlobalHeroBanner";
 import img2 from "@/assets/image/Home/img2.png";
 
