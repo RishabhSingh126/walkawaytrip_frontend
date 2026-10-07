@@ -1,0 +1,8 @@
+/* If using the public directory */
+
+@font-face {
+  font-family: "PlusJakartaSans";
+  src: url("/fonts/plus-jakarta-sans/PlusJakartaSans.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
