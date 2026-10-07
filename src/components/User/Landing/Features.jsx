@@ -1,8 +1,8 @@
 import React from "react";
-import ticket from "@/assets/image/landing/ticket.svg";
-import balloon from "@/assets/image/landing/hot-air-balloon.svg";
-import gem from "@/assets/image/landing/diamond.svg";
-import award from "@/assets/image/landing/medal.svg";
+import ticket from "@/assets/image/Landing/ticket.svg";
+import balloon from "@/assets/image/Landing/hot-air-balloon.svg";
+import gem from "@/assets/image/Landing/diamond.svg";
+import award from "@/assets/image/Landing/medal.svg";
 
 const features = [
   {
